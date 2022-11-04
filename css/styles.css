@@ -1,0 +1,31 @@
+*{
+    font-family: Verdana;
+}
+
+h2{
+    color:gray
+}
+
+img.queenImg{
+    width: 400px;
+    height: 200px;
+}
+
+table{
+    border: black 1px solid;
+    border-collapse: collapse;
+
+}
+th{
+    border: black 1px solid;
+    padding: 10px;
+    background-color: gray;
+}
+td{
+   border: black 1px solid; 
+   padding: 10px;
+}
+
+.tdColspan{
+    background-color: skyblue;
+}
